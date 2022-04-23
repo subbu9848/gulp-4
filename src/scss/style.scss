@@ -1,6 +1,7 @@
-$primary-color: orange;
+$primary-color: rgb(72, 84, 189);
+$font-color: hsla(0, 0%, 94%, 0.815);
 
 body {
   background-color: $primary-color;
-  color: #fff;
+  color: $font-color;
 }
